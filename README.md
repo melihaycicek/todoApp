@@ -1,22 +1,17 @@
 # todoApp
 Optimizing with sprping and react v6 versions
 
- - Java 11
- - Spring Boot
- - Spring Data Jpa
- - Spring Security
- - Swagger
  
 ### Tech Stack
 
--Java 11
--Spring Boot
--Spring Data Jpa
--Spring Security
--Consumer Driven Contract Tests
--Javascript
--React.js V6
--ReactStrap
+- Java 11
+- Spring Boot
+- Spring Data Jpa
+- Spring Security
+- Consumer Driven Contract Tests
+- Javascript
+- React.js V6
+- ReactStrap
 
 ## Tech Stack
 
