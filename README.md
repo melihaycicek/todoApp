@@ -61,5 +61,3 @@ Frontend : http://localhost:3000
 ##### Use Postman collection 
 
 ### Integration tests && Contract tests
-
-![test](https://github.com/mehmetpekdemir/Todo-App/blob/master/docs/testcoverage.png)
