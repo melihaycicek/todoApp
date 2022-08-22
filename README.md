@@ -2,7 +2,7 @@
 Optimizing with sprping and react v6 versions
 
 
-## Tech Stack
+### Tech Stack
 
 -Java 11
 -Spring Boot
