@@ -10,6 +10,7 @@ Optimizing with sprping and react v6 versions
 - Spring Security
 - Consumer Driven Contract Tests
 - Javascript
+- PostgreSql
 - React.js V6
 - ReactStrap
 
